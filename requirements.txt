@@ -1,0 +1,9 @@
+streamlit
+osmnx==1.5.1
+geopandas
+matplotlib
+scikit-learn
+numpy
+pandas
+eppy
+lxml
