@@ -43,3 +43,6 @@ htmlcov/
 *.bak
 .DS_Store
 Thumbs.db
+
+# chatgpt
+chatpt/
