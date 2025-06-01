@@ -1,0 +1,1905 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7816597,
+            11.243451
+          ],
+          [
+            75.7812112,
+            11.2413075
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0015329431838798015
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7816597,
+            11.243451
+          ],
+          [
+            75.7867885,
+            11.2473575
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0045129826642774495
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7816597,
+            11.243451
+          ],
+          [
+            75.7855991,
+            11.245496
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.003106998504404382
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7816597,
+            11.243451
+          ],
+          [
+            75.781252,
+            11.2452942
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0013214260137078542
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7812112,
+            11.2413075
+          ],
+          [
+            75.7867885,
+            11.2473575
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.005759973948907583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7812112,
+            11.2413075
+          ],
+          [
+            75.7855991,
+            11.245496
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.00424624862006316
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7812112,
+            11.2413075
+          ],
+          [
+            75.781252,
+            11.2452942
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002790836138095807
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7867885,
+            11.2473575
+          ],
+          [
+            75.7855991,
+            11.245496
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.001546327506999138
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7867885,
+            11.2473575
+          ],
+          [
+            75.781252,
+            11.2452942
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.004135930267621459
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7855991,
+            11.245496
+          ],
+          [
+            75.781252,
+            11.2452942
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0030462470038584545
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7767042,
+            11.2481383
+          ],
+          [
+            75.7764013,
+            11.2438557
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.003005308881513659
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7767042,
+            11.2481383
+          ],
+          [
+            75.7740877,
+            11.2417849
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0048097571941736915
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7767042,
+            11.2481383
+          ],
+          [
+            75.7758372,
+            11.2474599
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0007706092553295474
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7767042,
+            11.2481383
+          ],
+          [
+            75.7799068,
+            11.2461407
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002642168755933162
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7764013,
+            11.2438557
+          ],
+          [
+            75.7740877,
+            11.2417849
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0021734924025666293
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7764013,
+            11.2438557
+          ],
+          [
+            75.7758372,
+            11.2474599
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002553653962562014
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7764013,
+            11.2438557
+          ],
+          [
+            75.7799068,
+            11.2461407
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002929126161931389
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7740877,
+            11.2417849
+          ],
+          [
+            75.7758372,
+            11.2474599
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.004156984949756836
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7740877,
+            11.2417849
+          ],
+          [
+            75.7799068,
+            11.2461407
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.00508813423963608
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7758372,
+            11.2474599
+          ],
+          [
+            75.7799068,
+            11.2461407
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002994653080414187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7982231,
+            11.2522455
+          ],
+          [
+            75.7963996,
+            11.25
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002024854815783712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7982231,
+            11.2522455
+          ],
+          [
+            75.7968133,
+            11.2460421
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0044531064128323925
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7982231,
+            11.2522455
+          ],
+          [
+            75.7981519,
+            11.2503287
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.001342685340353667
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7982231,
+            11.2522455
+          ],
+          [
+            75.7979659,
+            11.2450156
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.005064131402965866
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7963996,
+            11.25
+          ],
+          [
+            75.7968133,
+            11.2460421
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0027856236014574586
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7963996,
+            11.25
+          ],
+          [
+            75.7981519,
+            11.2503287
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0012480038061590726
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7963996,
+            11.25
+          ],
+          [
+            75.7979659,
+            11.2450156
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0036572932798024285
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7968133,
+            11.2460421
+          ],
+          [
+            75.7981519,
+            11.2503287
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.003143521411537927
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7968133,
+            11.2460421
+          ],
+          [
+            75.7979659,
+            11.2450156
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0010804039128479792
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7981519,
+            11.2503287
+          ],
+          [
+            75.7979659,
+            11.2450156
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0037214483106583628
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7809824,
+            11.252569
+          ],
+          [
+            75.7807449,
+            11.254038
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0010416525104369456
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7809824,
+            11.252569
+          ],
+          [
+            75.7836022,
+            11.249671
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.00273464082826487
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7809824,
+            11.252569
+          ],
+          [
+            75.7802368,
+            11.248671
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0027780673941428286
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7809824,
+            11.252569
+          ],
+          [
+            75.7853111,
+            11.2505264
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.003350497073645561
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7807449,
+            11.254038
+          ],
+          [
+            75.7836022,
+            11.249671
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0036530915157038405
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7807449,
+            11.254038
+          ],
+          [
+            75.7802368,
+            11.248671
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.003773698286681201
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7807449,
+            11.254038
+          ],
+          [
+            75.7853111,
+            11.2505264
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.004032238005127568
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7836022,
+            11.249671
+          ],
+          [
+            75.7802368,
+            11.248671
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002457579990238853
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7836022,
+            11.249671
+          ],
+          [
+            75.7853111,
+            11.2505264
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.001337723327633787
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7802368,
+            11.248671
+          ],
+          [
+            75.7853111,
+            11.2505264
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0037820106462727035
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7733734,
+            11.2515801
+          ],
+          [
+            75.7766636,
+            11.2530237
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0025150754521544205
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7733734,
+            11.2515801
+          ],
+          [
+            75.77491,
+            11.2535393
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.00174293030784732
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7733734,
+            11.2515801
+          ],
+          [
+            75.7744573,
+            11.2535097
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0015492306901485743
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7733734,
+            11.2515801
+          ],
+          [
+            75.7737839,
+            11.2501835
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0010189754103509551
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7766636,
+            11.2530237
+          ],
+          [
+            75.77491,
+            11.2535393
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0012794798149252517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7766636,
+            11.2530237
+          ],
+          [
+            75.7744573,
+            11.2535097
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.001581435515006982
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7766636,
+            11.2530237
+          ],
+          [
+            75.7737839,
+            11.2501835
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0028312735621487126
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.77491,
+            11.2535393
+          ],
+          [
+            75.7744573,
+            11.2535097
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0003175666709603671
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.77491,
+            11.2535393
+          ],
+          [
+            75.7737839,
+            11.2501835
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002477791854960169
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7744573,
+            11.2535097
+          ],
+          [
+            75.7737839,
+            11.2501835
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0023755770372686177
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7903757,
+            11.2437529
+          ],
+          [
+            75.7931167,
+            11.2427661
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002039254537226929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7903757,
+            11.2437529
+          ],
+          [
+            75.7967055,
+            11.2419361
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.00460976071366184
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7903757,
+            11.2437529
+          ],
+          [
+            75.7953998,
+            11.242228
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.00367529337628977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7903757,
+            11.2437529
+          ],
+          [
+            75.7882367,
+            11.243929
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0015023657287422244
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7931167,
+            11.2427661
+          ],
+          [
+            75.7967055,
+            11.2419361
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0025784702568791475
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7931167,
+            11.2427661
+          ],
+          [
+            75.7953998,
+            11.242228
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0016419584762713117
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7931167,
+            11.2427661
+          ],
+          [
+            75.7882367,
+            11.243929
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.003511652152605476
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7967055,
+            11.2419361
+          ],
+          [
+            75.7953998,
+            11.242228
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0009365513701897175
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7967055,
+            11.2419361
+          ],
+          [
+            75.7882367,
+            11.243929
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.006090089464574583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7953998,
+            11.242228
+          ],
+          [
+            75.7882367,
+            11.243929
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.005153607210381441
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7886682,
+            11.2553006
+          ],
+          [
+            75.7895165,
+            11.2541163
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0010197391314455497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7886682,
+            11.2553006
+          ],
+          [
+            75.7867723,
+            11.2541032
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0015696559334184147
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7886682,
+            11.2553006
+          ],
+          [
+            75.7888269,
+            11.2537805
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0010698532390008958
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7886682,
+            11.2553006
+          ],
+          [
+            75.7892432,
+            11.2519466
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002382051865513905
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7895165,
+            11.2541163
+          ],
+          [
+            75.7867723,
+            11.2541032
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0019209618873171365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7895165,
+            11.2541163
+          ],
+          [
+            75.7888269,
+            11.2537805
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0005369094914423364
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7895165,
+            11.2541163
+          ],
+          [
+            75.7892432,
+            11.2519466
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.001530791488152484
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7867723,
+            11.2541032
+          ],
+          [
+            75.7888269,
+            11.2537805
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0014558513181353108
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7867723,
+            11.2541032
+          ],
+          [
+            75.7892432,
+            11.2519466
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.002295772741652057
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7888269,
+            11.2537805
+          ],
+          [
+            75.7892432,
+            11.2519466
+          ]
+        ]
+      },
+      "properties": {
+        "type": "intra-zone",
+        "weight": 0.0013163899502039527
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7815524,
+            11.2515737
+          ],
+          [
+            75.7880586,
+            11.2538889
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.006905851828706728
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7973305,
+            11.2488682
+          ],
+          [
+            75.7880586,
+            11.2538889
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.010543982079841755
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7839535,
+            11.2441199
+          ],
+          [
+            75.7880586,
+            11.2538889
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.01059647144147705
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7923377,
+            11.2434085
+          ],
+          [
+            75.7880586,
+            11.2538889
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.011320312759374365
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7745714,
+            11.2515259
+          ],
+          [
+            75.7880586,
+            11.2538889
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.013692637906553987
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8402163,
+            11.2695471
+          ],
+          [
+            75.7880586,
+            11.2538889
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.05445736769739712
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7771686,
+            11.2451606
+          ],
+          [
+            75.7880586,
+            11.2538889
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.013956192922500986
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7815524,
+            11.2515737
+          ],
+          [
+            75.7839535,
+            11.2441199
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.007830990719570972
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7815524,
+            11.2515737
+          ],
+          [
+            75.7923377,
+            11.2434085
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.013527497445211553
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7815524,
+            11.2515737
+          ],
+          [
+            75.7745714,
+            11.2515259
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.00698116364512005
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8402163,
+            11.2695471
+          ],
+          [
+            75.7815524,
+            11.2515737
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.06135549095859245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7973305,
+            11.2488682
+          ],
+          [
+            75.7815524,
+            11.2515737
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.016008378114605357
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7815524,
+            11.2515737
+          ],
+          [
+            75.7771686,
+            11.2451606
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.007768240087046079
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7973305,
+            11.2488682
+          ],
+          [
+            75.7923377,
+            11.2434085
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.007398403606858624
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8402163,
+            11.2695471
+          ],
+          [
+            75.7973305,
+            11.2488682
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.047611014973947346
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7973305,
+            11.2488682
+          ],
+          [
+            75.7839535,
+            11.2441199
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.014194734301499187
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7973305,
+            11.2488682
+          ],
+          [
+            75.7771686,
+            11.2451606
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.020499963643143517
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7771686,
+            11.2451606
+          ],
+          [
+            75.7839535,
+            11.2441199
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.00686424974050299
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7923377,
+            11.2434085
+          ],
+          [
+            75.7839535,
+            11.2441199
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.008414327043807497
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7745714,
+            11.2515259
+          ],
+          [
+            75.7839535,
+            11.2441199
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.011952934217586508
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8402163,
+            11.2695471
+          ],
+          [
+            75.7839535,
+            11.2441199
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.06174176190942349
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7771686,
+            11.2451606
+          ],
+          [
+            75.7923377,
+            11.2434085
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.015269952495677929
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7745714,
+            11.2515259
+          ],
+          [
+            75.7923377,
+            11.2434085
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.019532885051886478
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.8402163,
+            11.2695471
+          ],
+          [
+            75.7923377,
+            11.2434085
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.05454893901735493
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            75.7771686,
+            11.2451606
+          ],
+          [
+            75.7745714,
+            11.2515259
+          ]
+        ]
+      },
+      "properties": {
+        "type": "inter-zone",
+        "weight": 0.006874772136586812
+      }
+    }
+  ]
+}
