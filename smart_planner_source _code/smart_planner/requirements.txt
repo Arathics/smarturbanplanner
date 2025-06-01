@@ -1,0 +1,7 @@
+streamlit
+folium
+streamlit-folium
+networkx
+osmnx
+sumolib
+traci
